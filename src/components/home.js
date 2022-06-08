@@ -13,7 +13,7 @@ import team2 from '../assets/img/team/img-1.png';
 import bannerFinale from '../assets/img/team/img-3.png';
 import video from '../assets/img/full.mkv'
 import menu from "../assets/img/menu/img.png"
-
+import "../assets/css/styles_v5.css"
 
 
 
