@@ -11,7 +11,7 @@ import gift4 from '../assets/img/gifts/gft-4.png';
 import team1 from '../assets/img/team/img.png';
 import team2 from '../assets/img/team/img-1.png';
 import bannerFinale from '../assets/img/team/img-3.png';
-import video from '../assets/img/full.mp4'
+import video from '../assets/img/full.mkv'
  
 
 
